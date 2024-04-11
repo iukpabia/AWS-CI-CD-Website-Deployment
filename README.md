@@ -97,7 +97,7 @@ Create a deployment. (code deploy only supports s3 or GitHub repos not code-comm
 <br />
 <br />
 
-create a repository in codecommit <br/>
+Automate the entire deployment process using Codepipeline <br/>
 
 <img width="450" alt="step 11" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/f7e6dae7-11c6-440c-ba1d-d9f825e8b1df"/>
 
@@ -105,7 +105,7 @@ create a repository in codecommit <br/>
 <br />
 
 
-create a repository in codecommit <br/>
+The build process <br/>
 
 <img width="450" alt="step 12" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/3b43467c-43c5-45c5-a52a-8784ca8d3ff2"/>
 
@@ -113,14 +113,14 @@ create a repository in codecommit <br/>
 <br />
 <br />
 
-create a repository in codecommit <br/>
+The deployment process <br/>
 
 <img width="450" alt="step 13" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/c8d24647-f255-460e-89ac-930cb670d72"/>
 
 <br />
 <br />
 
-create a repository in codecommit <br/>
+Viola!!! the end product <br/>
 
 <img width="450" alt="step 14" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/9cad995f-5b76-4dde-9024-79ead58315b4"/>
 
