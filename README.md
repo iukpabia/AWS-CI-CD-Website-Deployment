@@ -43,7 +43,15 @@ create a repository in codecommit <br/>
 
 create a repository in codecommit <br/>
 
-<img width="400" alt="step 3" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/ac02b50c-f983-4b1e-a48a-9ccbc687e489"/>
+<img width="445" alt="step 4" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/6f5481d1-3ac3-4558-a781-7d5d3fcd106d"/>
+
+<br />
+<br />
+
+create a repository in codecommit <br/>
+
+<img width="445" alt="step 4" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/6f5481d1-3ac3-4558-a781-7d5d3fcd106d"/>
+
 <br />
 <br />
 
