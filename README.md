@@ -25,13 +25,28 @@ This project demonstrates how to automate web deployment using AWS code pipeline
 
 create a repository in codecommit <br/>
 
-<img width="300" alt="step 1" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/92811b34-3bdc-443d-b857-15ca87552f38"/>
+<img width="400" alt="step 1" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/92811b34-3bdc-443d-b857-15ca87552f38"/>
 <br />
 <br />
 
 create a repository in codecommit <br/>
 
-<img width="300" alt="step 2" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/305db7eb-4b28-461e-87fd-2907ae9d2f91"/>
+<img width="400" alt="step 2" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/305db7eb-4b28-461e-87fd-2907ae9d2f91"/>
+<br />
+<br />
+
+create a repository in codecommit <br/>
+
+<img width="400" alt="step 3" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/ac02b50c-f983-4b1e-a48a-9ccbc687e489"/>
+<br />
+<br />
+
+create a repository in codecommit <br/>
+
+<img width="400" alt="step 3" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/ac02b50c-f983-4b1e-a48a-9ccbc687e489"/>
+<br />
+<br />
+
 
 
 
