@@ -29,33 +29,35 @@ create a repository in codecommit <br/>
 <br />
 <br />
 
-create a repository in codecommit <br/>
+Prerequisite: download git client, generate credentials for HTTPS Git documents for AWS code commit <br/>
 
 <img width="400" alt="step 2" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/305db7eb-4b28-461e-87fd-2907ae9d2f91"/>
 <br />
 <br />
 
-create a repository in codecommit <br/>
+Connect to remote repo and push code. <br/>
 
 <img width="400" alt="step 3" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/ac02b50c-f983-4b1e-a48a-9ccbc687e489"/>
 <br />
 <br />
 
-create a repository in codecommit <br/>
+Create a project on Code build <br/>
 
 <img width="400" alt="step 4" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/6f5481d1-3ac3-4558-a781-7d5d3fcd106d"/>
 
 <br />
 <br />
 
-create a repository in codecommit <br/>
+Test the project <br/>
 
 <img width="400" alt="step 5" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/c82b57d0-c071-47c4-92fe-4956140eb5e3"/>
 
 <br />
 <br />
 
-create a repository in codecommit <br/>
+Create an EC2 instance where the website will be deployed. (attach an IAM role to the EC2 to 
+Access S3, install a code deploy agent on EC2)
+ <br/>
 
 <img width="400" alt="step 6" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/3e8acb66-5f18-477a-97a9-c10d4f156a49"/>
 
