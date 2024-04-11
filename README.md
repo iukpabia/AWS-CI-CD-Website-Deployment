@@ -25,32 +25,32 @@ This project demonstrates how to automate web deployment using AWS code pipeline
 
 create a repository in codecommit <br/>
 
-<img width="400" alt="step 1" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/92811b34-3bdc-443d-b857-15ca87552f38"/>
+<img width="450" alt="step 1" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/92811b34-3bdc-443d-b857-15ca87552f38"/>
 <br />
 <br />
 
 Prerequisite: download git client, generate credentials for HTTPS Git documents for AWS code commit <br/>
 
-<img width="400" alt="step 2" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/305db7eb-4b28-461e-87fd-2907ae9d2f91"/>
+<img width="450" alt="step 2" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/305db7eb-4b28-461e-87fd-2907ae9d2f91"/>
 <br />
 <br />
 
 Connect to remote repo and push code. <br/>
 
-<img width="400" alt="step 3" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/ac02b50c-f983-4b1e-a48a-9ccbc687e489"/>
+<img width="450" alt="step 3" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/ac02b50c-f983-4b1e-a48a-9ccbc687e489"/>
 <br />
 <br />
 
 Create a project on Code build <br/>
 
-<img width="400" alt="step 4" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/6f5481d1-3ac3-4558-a781-7d5d3fcd106d"/>
+<img width="450" alt="step 4" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/6f5481d1-3ac3-4558-a781-7d5d3fcd106d"/>
 
 <br />
 <br />
 
 Test the project <br/>
 
-<img width="400" alt="step 5" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/c82b57d0-c071-47c4-92fe-4956140eb5e3"/>
+<img width="450" alt="step 5" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/c82b57d0-c071-47c4-92fe-4956140eb5e3"/>
 
 <br />
 <br />
@@ -59,7 +59,7 @@ Create an EC2 instance where the website will be deployed. (attach an IAM role t
 Access S3, install a code deploy agent on EC2)
  <br/>
 
-<img width="400" alt="step 6" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/3e8acb66-5f18-477a-97a9-c10d4f156a49"/>
+<img width="450" alt="step 6" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/3e8acb66-5f18-477a-97a9-c10d4f156a49"/>
 
 
 <br />
@@ -67,7 +67,7 @@ Access S3, install a code deploy agent on EC2)
 
 Install codedeploy agent on EC2 <br/>
 
-<img width="400" alt="step 7" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/2c0df345-cffb-4f02-8cdf-c160f0506bd7"/>
+<img width="450" alt="step 7" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/2c0df345-cffb-4f02-8cdf-c160f0506bd7"/>
 
 
 <br />
@@ -75,7 +75,7 @@ Install codedeploy agent on EC2 <br/>
 
 Create a deployment application using code deploy <br/>
 
-<img width="430" alt="step 8" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/c564f140-833b-4f4a-94f5-af38d5b535ef"/>
+<img width="450" alt="step 8" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/c564f140-833b-4f4a-94f5-af38d5b535ef"/>
 
 
 <br />
@@ -84,7 +84,7 @@ Create a deployment application using code deploy <br/>
 
 Create deployment group (attach a code deploy service role here) <br/>
 
-<img width="400" alt="step 9" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/46243881-6a92-4aed-8083-06c3dbd857ea"/>
+<img width="450" alt="step 9" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/46243881-6a92-4aed-8083-06c3dbd857ea"/>
 
 <br />
 <br />
