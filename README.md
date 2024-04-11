@@ -43,18 +43,33 @@ create a repository in codecommit <br/>
 
 create a repository in codecommit <br/>
 
-<img width="445" alt="step 4" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/6f5481d1-3ac3-4558-a781-7d5d3fcd106d"/>
+<img width="400" alt="step 4" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/6f5481d1-3ac3-4558-a781-7d5d3fcd106d"/>
 
 <br />
 <br />
 
 create a repository in codecommit <br/>
 
-<img width="445" alt="step 4" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/6f5481d1-3ac3-4558-a781-7d5d3fcd106d"/>
+<img width="400" alt="step 5" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/c82b57d0-c071-47c4-92fe-4956140eb5e3"/>
 
 <br />
 <br />
 
+create a repository in codecommit <br/>
+
+<img width="400" alt="step 6" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/3e8acb66-5f18-477a-97a9-c10d4f156a49"/>
+
+
+<br />
+<br />
+
+create a repository in codecommit <br/>
+
+<img width="400" alt="step 6" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/3e8acb66-5f18-477a-97a9-c10d4f156a49"/>
+
+
+<br />
+<br />
 
 
 
