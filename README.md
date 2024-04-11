@@ -115,7 +115,8 @@ The build process <br/>
 
 The deployment process <br/>
 
-<img width="450" alt="step 13" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/c8d24647-f255-460e-89ac-930cb670d72"/>
+<img width="450" alt="step 13" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/3dc6423c-f224-438b-8845-e79ac4eb218d"/>
+
 
 <br />
 <br />
