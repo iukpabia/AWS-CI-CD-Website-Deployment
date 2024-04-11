@@ -65,7 +65,7 @@ Access S3, install a code deploy agent on EC2)
 <br />
 <br />
 
-create a repository in codecommit <br/>
+Install codedeploy agent on EC2 <br/>
 
 <img width="400" alt="step 7" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/2c0df345-cffb-4f02-8cdf-c160f0506bd7"/>
 
@@ -73,7 +73,7 @@ create a repository in codecommit <br/>
 <br />
 <br />
 
-create a repository in codecommit <br/>
+Create a deployment application using code deploy <br/>
 
 <img width="430" alt="step 8" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/c564f140-833b-4f4a-94f5-af38d5b535ef"/>
 
@@ -82,14 +82,14 @@ create a repository in codecommit <br/>
 <br />
 
 
-create a repository in codecommit <br/>
+Create deployment group (attach a code deploy service role here) <br/>
 
 <img width="400" alt="step 9" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/46243881-6a92-4aed-8083-06c3dbd857ea"/>
 
 <br />
 <br />
 
-create a repository in codecommit <br/>
+Create a deployment. (code deploy only supports s3 or GitHub repos not code-commit) <br/>
 
 <img width="450" alt="step 10" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/15904486-9146-48dd-a07d-7a235059e69b"/>
 
