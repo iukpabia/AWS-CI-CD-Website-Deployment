@@ -105,7 +105,7 @@ create a repository in codecommit <br/>
 
 create a repository in codecommit <br/>
 
-![step 12](https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/3b43467c-43c5-45c5-a52a-8784ca8d3ff2)
+<img width="400" alt="step 12" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/3b43467c-43c5-45c5-a52a-8784ca8d3ff2"/>
 
 
 <br />
