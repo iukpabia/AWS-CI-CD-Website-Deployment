@@ -24,6 +24,11 @@ This project demonstrates how to automate web deployment using AWS code pipeline
 create a repository in codecommit <br/>
 
 <img width="409" alt="step 1" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/92811b34-3bdc-443d-b857-15ca87552f38">
+<br />
+
+
+
+<img width="454" alt="step 2" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/305db7eb-4b28-461e-87fd-2907ae9d2f91">
 
 <p align="center">
 
