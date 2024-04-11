@@ -20,6 +20,7 @@ This project demonstrates how to automate web deployment using AWS code pipeline
 - <b>EC2 Virtual Machine</b> 
 
 <h2>Project walk-through:</h2>
+![image](https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/a2df9ecd-d119-4fe1-992a-76139e369aa5)
 
 <p align="center">
 
